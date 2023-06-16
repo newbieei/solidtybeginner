@@ -35,6 +35,6 @@ Number of Contributors
 
 1. Eiron Maningat - Mapua University
 
-License ###
+### License 
 
 The Eiron Maningat License governs use of this work. 
